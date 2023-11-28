@@ -2,4 +2,5 @@
 #test.py
 
 print("hello krishna");
-prinnt("welcome krishna");
+print("welcome krishna");
+print("All the Best");
